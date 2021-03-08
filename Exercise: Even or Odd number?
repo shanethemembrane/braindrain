@@ -1,0 +1,9 @@
+check_mod = number % 2
+
+
+
+if check_mod == 0:
+  print("This number is even")
+
+else:
+  print("This number is odd")
